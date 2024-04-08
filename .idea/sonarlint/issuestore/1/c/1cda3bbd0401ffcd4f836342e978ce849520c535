@@ -1,0 +1,5 @@
+
+Ñ
+java:S6548"®An Enum-based Singleton implementation was detected. Make sure the use of the Singleton pattern is required and an Enum-based implementation is the right one for the context.(ÆËñèüÿÿÿÿ8ÕÝÛåë1
+\
+java:S1144":Remove this unused private "checkExceptionPrivate" method.(å—³ßþÿÿÿÿ8Ê™‚æë1
